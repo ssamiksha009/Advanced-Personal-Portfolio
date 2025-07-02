@@ -33,12 +33,6 @@ A modern, responsive portfolio website to showcase my projects, research, experi
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots or GIFs of your portfolio here for visual reference)*
-
----
-
 ## 🚀 Run Locally
 
 ```bash
