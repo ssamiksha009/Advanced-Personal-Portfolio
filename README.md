@@ -4,7 +4,7 @@ A modern, responsive portfolio website to showcase my projects, research, experi
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Dem
 
 [Visit Portfolio](https://portfolio-samiksha-s.netlify.app/) 
 
