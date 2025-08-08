@@ -4,8 +4,7 @@ A modern, responsive portfolio website to showcase my projects, research, experi
 
 ---
 
-##
- 
+
 
 ---
 
