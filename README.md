@@ -1,6 +1,6 @@
 #  Samiksha's Personal Portfolio
 
-A modern, responsive portfolio website to showcase my projects, research, experience, skills, certifications, and achievements. Built with a focus on clean UI, interactive animations, and optimized performance
+A modern, responsive portfolio website to showcase my projects, research, experience, skills, certifications, and achievements. Built with a focus on clean UI, interactive animations, and optimized performanc
 
 
 
